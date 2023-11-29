@@ -1,6 +1,6 @@
 import streamlit as st
 import sqlite3
-from fpdf import FPDF
+
 
 # Função para conectar ao banco de dados
 def get_db_connection():
